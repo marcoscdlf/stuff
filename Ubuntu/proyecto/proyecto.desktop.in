@@ -1,0 +1,8 @@
+[Desktop Entry]
+_Name=Proyecto
+_Comment=Proyecto application
+Categories=GNOME;Utility;
+Exec=proyecto
+Icon=proyecyo
+Terminal=false
+Type=Application
